@@ -18,6 +18,6 @@ Currently, learning `Android` and `Kotlin`.
 
 ### Contact Me ✉️
 - [Github]('https;//github.com/tarun-bhandari')
-- [Linkedun]('https://www.linkedin.com/in/tarun-bhandari-17198a2b0/')
+- [Linkedin](https://www.linkedin.com/in/tarun-bhandari-17198a2b0/)
 
 
