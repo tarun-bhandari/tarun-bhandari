@@ -17,6 +17,7 @@ Currently, learning `Android` and `Kotlin`.
 - I am using `PopOs` in my laptop  
 
 ### Contact Me ✉️
-- [Github]('https;//github.com/tarun-bhandari')  
+- [Github]('https;//github.com/tarun-bhandari')
+- [Linkedun]('https://www.linkedin.com/in/tarun-bhandari-17198a2b0/')
 
 
