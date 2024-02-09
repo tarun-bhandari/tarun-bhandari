@@ -8,7 +8,7 @@
 Currently, learning `Android` and `Kotlin`. 
 
 ### Tools 🧰
-`JavaScript` `Kotlin` `Android`  
+`Kotlin`  
 `Git` `Github`
 
 ### Fun fact ✨  
