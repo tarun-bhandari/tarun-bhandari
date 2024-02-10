@@ -5,7 +5,8 @@
 
 <!--- Small Summary --->
 ### Hi there! 👋 I am Tarun Bhandari,
-Currently, learning `Android` and `Kotlin`. 
+I am another techie guys, who want to create some useful and good apps for the people  
+Currently, I am learning `Kotlin`
 
 ### Tools 🧰
 `Kotlin`  
@@ -13,11 +14,11 @@ Currently, learning `Android` and `Kotlin`.
 
 ### Fun fact ✨  
 - I like to read manga, Currently reading `Mashle`
-- I like to code at night with the music
 - I am using `PopOs` in my laptop  
-
+  
 ### Contact Me ✉️
 - [Github]('https;//github.com/tarun-bhandari')
 - [Linkedin](https://www.linkedin.com/in/tarun-bhandari-17198a2b0/)
+- [Instagram](https://www.instagram.com/tar._.u/)
 
 
