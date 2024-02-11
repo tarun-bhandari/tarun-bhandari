@@ -5,7 +5,7 @@
 
 <!--- Small Summary --->
 ### Hi there! 👋 I am Tarun Bhandari,
-I am just another tech guys, who want to create some useful and good apps for the people  
+I am just another tech guys, who want to create some useful and beautiful apps  
 Currently, I am learning `Kotlin`
 
 ### Tools 🧰
