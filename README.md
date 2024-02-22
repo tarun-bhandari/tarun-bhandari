@@ -13,7 +13,7 @@ Currently, I am learning `Kotlin`
 `Git` `Github`
 
 ### Fun fact ✨  
-- I like to read manga, Currently reading `Dead Dead Demons Dedededestruction`
+- I like to read manga, Currently reading `After the Rain`
 - I am using `PopOs` in my laptop
-- I like to code at night with the moon  
+- I like to code at night with some music and coffee
 
