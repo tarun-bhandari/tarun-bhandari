@@ -13,7 +13,12 @@ Currently, I am learning `Kotlin`
 `Git` `Github`
 
 ### Fun fact ✨  
-- I like to read manga, Currently reading `After the Rain`
+- I prefers to read **manga** than watch
 - I am using `PopOs` in my laptop
-- I like to code at night with some music and coffee
+- I like to code at night with some music 🎧 and coffee ☕
 
+### My Socials
+- [Anilist](https://anilist.co/user/iamtaruuuu/)
+- [Instagram](https://www.instagram.com/tar._.u/)
+- [Twitter](https://twitter.com/taruuu_bhandari)
+- [Linkedin](https://www.linkedin.com/in/tarun-bhandari-17198a2b0/)
