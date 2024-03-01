@@ -9,7 +9,7 @@ I am just another tech guys, who want to create some useful and beautiful apps
 Currently, I am learning `Data Strucutre and Algorithm` and `Java`
 
 ### Tools 🧰
-`Java`  
+`Javascript`  
 `Git` `Github`
 
 ### Fun fact ✨  
