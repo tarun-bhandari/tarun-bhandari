@@ -5,20 +5,21 @@
 
 <!--- Small Summary --->
 ### Hi there! 👋 I am Tarun Bhandari,
-I am just another tech guys, who want to create some useful and beautiful apps  
-Currently, I am learning `Data Strucutre and Algorithm` and `Java`
+
+Hello, I am **Tarun Bhandari**, a software developer and a person who love to read **Manga** and watch **Anime**.  
+Currently, I am learning `Kotlin`
 
 ### Tools 🧰
+
 `Javascript` `Markdown`  
 `Git` `Github`
 
 ### Fun fact ✨  
-- I prefers to read **manga** than watch
+
+- I like to read `Manga` and watch `Anime`
 - I am using `PopOs` in my laptop
-- I like to code at night with some music 🎧 and coffee ☕
 
 ### My Socials
-- [Anilist](https://anilist.co/user/iamtaruuuu/)
-- [Instagram](https://www.instagram.com/tar._.u/)
-- [Twitter](https://twitter.com/taruuu_bhandari)
-- [Linkedin](https://www.linkedin.com/in/tarun-bhandari-17198a2b0/)
+
+[Anilist](https://anilist.co/user/iamtaruuuu/) **|** [Instagram](https://www.instagram.com/tar._.u/) **|** [Twitter](https://twitter.com/taruuu_bhandari) **|** [Linkedin](https://www.linkedin.com/in/tarun-bhandari-17198a2b0/)
+
