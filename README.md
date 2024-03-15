@@ -16,8 +16,8 @@ Currently, I am learning `Kotlin`
 
 ### Fun fact ✨  
 
-- I like to read `Manga` and watch `Anime`
-- I am using `PopOs` in my laptop
+- I have more `Manga` than `Books`
+- I am using `Linux` and `It is awesome`
 
 ### My Socials
 
