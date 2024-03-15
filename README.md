@@ -7,7 +7,7 @@
 ### Hi there! 👋 I am Tarun Bhandari,
 
 Hello, I am **Tarun Bhandari**, a software developer and a person who love to read **Manga** and watch **Anime**.  
-Currently, I am learning `Lua and React Native`
+Currently, I am learning `Lua`
 
 ### Tools 🧰
 
