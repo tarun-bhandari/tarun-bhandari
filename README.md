@@ -6,8 +6,7 @@
 <!--- Small Summary --->
 ### Hi there! 👋 I am Tarun Bhandari,
 
-Hello, I am **Tarun Bhandari**, a software developer and a person who love to read **Manga** and watch **Anime**.  
-Currently, I am learning `Lua`
+Hello, I am **Tarun Bhandari**, I am a software developer and a person who love to read **Manga** and watch **Anime**.  
 
 ### Tools 🧰
 
@@ -17,7 +16,7 @@ Currently, I am learning `Lua`
 ### Fun fact ✨  
 
 - I have more `Manga` than `Books`
-- I am using `Linux` and `It is awesome`
+- I am using `PopOS` and `It is awesome...`
 
 ### My Socials
 
